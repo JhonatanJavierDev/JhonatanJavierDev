@@ -34,3 +34,5 @@ In 2018 I also participated in one of the most important economic projects in my
 
 https://www.bc.gob.cu/noticia/transfermovil/447
 
+https://www.granma.cu/file/img/2021/05/medium/f0197121.jpg
+
