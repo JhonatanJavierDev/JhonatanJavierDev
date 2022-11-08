@@ -29,12 +29,9 @@ My name is Jhonatan, I am a young Cuban lover of programming, since I was 9 year
 
 Todus --- https://www.todus.cu/
 
-[todus-24319-1.jpg](https://postimg.cc/hfRMpqRf)
 
 In 2018 I also participated in one of the most important economic projects in my country Transfermovil, an online payment app, which improved the commercial performance of all Cubans, being the only one at the time, currently the most used, this app allows the management of your bank capital, online purchase, transfers, currency conversions. At the time it was the most incredible and today it has more than 2 million users, in this project I was Head of Development along with 10 other colleagues who held the same position, taking leadership in the development and construction of it.
 
 
 https://www.bc.gob.cu/noticia/transfermovil/447
-
-[f0197121.jpg](https://postimg.cc/k291XPTk)
 
