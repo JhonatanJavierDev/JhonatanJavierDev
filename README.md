@@ -25,13 +25,5 @@ Here are some ideas to get you started:
 
 # 👀 more about me 👀
 
-My name is Jhonatan, I am a young Cuban lover of programming, since I was 9 years old I had my first link with programming reading important books and learning programming logic at 10 years old I had already created my first video game using JS, it was about a minigame where your character had to jump over obstacles until reaching the maximum score, each time becoming much more difficult, when I was 11 years old I designed my first program, called uniTools, basically it did the same as the well-known daemon tools, but I did it For me, thus achieving that more than 5000 people in my country had it, when I turned 15, I created my first application Call Online, basically it was a messaging app based on the aesthetics of Whatsapp, but without the need for internet it worked under the national servers of my country, thus achieving that with 10Mb nationals you could even make video calls with other people. The App did not last long since I canceled it and later participated in the development of the important ToDus application of my country Cuba, for a longer time I continued developing, by 2019 I had already made my first 3D video game with very good graphics, a video game that do for my school.
-
-Todus --- https://www.todus.cu/
-
-
-In 2018 I also participated in one of the most important economic projects in my country Transfermovil, an online payment app, which improved the commercial performance of all Cubans, being the only one at the time, currently the most used, this app allows the management of your bank capital, online purchase, transfers, currency conversions. At the time it was the most incredible and today it has more than 2 million users, in this project I was Head of Development along with 10 other colleagues who held the same position, taking leadership in the development and construction of it.
-
-
-https://www.bc.gob.cu/noticia/transfermovil/447
+My name is Jhonatan Javier, I am a young Cuban programmer, who loves to create code, from a very young age the world of programming became part of my life, carrying out web projects and computer applications at a very young age, I have spent my whole life programming and reading the code, learning a little more every day, having in my mind the most real of all phrases of a programmer "If you can imagine it, you can create it"
 
