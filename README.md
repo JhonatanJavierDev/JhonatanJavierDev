@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 😄 Pawn developer ...
 - ⚡ Languages ​​that I dominate, pythom, rust, C++, CSHARP, php, sql, js, java. ...
 
-[![HTML5-Logo-512.png](https://i.postimg.cc/BbpbRGtx/HTML5-Logo-512.png)](https://postimg.cc/9w4cqKdM)
+[html5-logo-devextreme-multi-purpose-controls-html-javascript-3.png](https://postimg.cc/JGZLVbK9)
 
 # 👀 more about me 👀
 
