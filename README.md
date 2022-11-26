@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 - 😄 Pawn developer ...
 - ⚡ Languages ​​that I dominate, pythom, rust, C++, CSHARP, php, sql, js, java. ...
 
+[![images-1.png](https://i.postimg.cc/x1xHcLfK/images-1.png)](https://postimg.cc/Sn9jP2zs)
+
 # 👀 more about me 👀
 
 My name is Jhonatan Javier, I am a young Cuban programmer, who loves to create code, from a very young age the world of programming became part of my life, carrying out web projects and computer applications at a very young age, I have spent my whole life programming and reading the code, learning a little more every day, having in my mind the most real of all phrases of a programmer "If you can imagine it, you can create it"
