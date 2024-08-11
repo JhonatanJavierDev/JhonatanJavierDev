@@ -6,3 +6,5 @@ Hello! 👋 I am Jhonatan, a passionate young programmer from Havana, Cuba. And 
 
 
 [![banner-general.png](https://i.postimg.cc/t4PtP2kk/banner-general.png)](https://postimg.cc/Mn6QJ0hf)
+
+![Jhonatan Corella](https://github-readme-stats.vercel.app/api?username=JhonatanJavierDev&show_icons=true&theme=radical)
